@@ -13,7 +13,10 @@
         }
     },
     "extra": {
-        "class": "WpPlus\\ComposerAutoload\\Plugin"
+        "class": "WpPlus\\ComposerAutoload\\Plugin",
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
     },
     "require-dev": {
         "composer/composer": "^2.7"
