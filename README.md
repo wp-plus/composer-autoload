@@ -1,4 +1,4 @@
-# Composer Autoload for Vanilla WordPress
+# Composer Autoload for WordPress
 
 **Seamlessly integrate Composer into a standard WordPress installation.**  
 
